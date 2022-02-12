@@ -1,4 +1,4 @@
-# hola-mundo
+# hola mundo
 mi primer repositorio u.u, ejercicio rama 
 
 Autor: Reyna Ramis
